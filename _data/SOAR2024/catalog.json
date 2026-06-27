@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "currency": "USD",
+  "default_price": 9.99,
+  "items": [
+    {
+      "id": "SOAR001",
+      "title": "Natural Healing",
+      "type": "ebook",
+      "price": 9.99,
+      "thumb": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/THUMBS/Natural Healing.png",
+      "pdf": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/PDFS/Natural Healing.pdf",
+      "description": "A foundational guide to natural healing principles, holistic care, and lifestyle-based wellness approaches.",
+      "status": "active"
+    },
+        {
+      "id": "SOAR002",
+      "title": "Cancer Support Herbal Garden",
+      "type": "ebook",
+      "price": 9.99,
+      "thumb": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/THUMBS/Cancer Support Herbal Garden.jpg",
+      "pdf": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/PDFS/Cancer Support Herbal Garden.pdf",
+      "description": "A practical, compassionate guide to cultivating and using supportive herbal remedies for those facing cancer and chronic illness.",
+      "status": "active"
+    },
+    {
+      "id": "SOAR003",
+      "title": "Immunity & Vitality: Strengthening Your Body Naturally",
+      "type": "ebook",
+      "price": 19.99,
+      "thumb": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/THUMBS/Immunity & Vitality.png",
+      "pdf": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/PDFS/Immunity & Vitality.pdf",
+      "description": "A comprehensive 135-page premium wellness manual focused on strengthening the immune system naturally. Covers nutrition, herbal allies, detox strategies, lifestyle optimization, stress management, sleep science, and long-term vitality building for individuals and families.",
+      "status": "active"
+    },
+    {
+      "id": "SOAR004",
+      "title": "Mind-Body Wellness: Stress Reduction & Emotional Balance",
+      "type": "ebook",
+      "price": 19.99,
+      "thumb": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/THUMBS/Mind & Body Wellness.jpg",
+      "pdf": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/PDFS/Mind & Body Wellness.pdf",
+      "description": "An extensive 135-page guide to mental clarity, emotional resilience, and holistic stress reduction. Integrates practical lifestyle strategies, natural support methods, mindfulness principles, and sustainable routines for long-term emotional and physical balance.",
+      "status": "active"
+    },
+    {
+      "id": "SOAR005",
+      "title": "Home Health & Emergency Survival Guide",
+      "type": "ebook",
+      "price": 9.99,
+      "thumb": "https://saphahcentral.github.io/soar2024/THUMBS/Home Health & Emergency Survival Guide.jpg",
+      "pdf": "https://saphahcentral.github.io/soar2024/PDFS/Home Health & Emergency Survival Guide.pdf",
+      "description": "A practical mini booklet on how to handle everyday health issues and emergencies using basic natural remedies.",
+      "status": "active"
+    },
+    {
+      "id": "SOAR006",
+      "title": "The Healing Kitchen",
+      "type": "ebook",
+      "price": 9.99,
+      "thumb": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/THUMBS/The Healing Kitchen.jpg",
+      "pdf": "https://soar2024-mall.github.io/firebase/_data/SOAR2024/PDFS/The Healing Kitchen.pdf",
+      "description": "A practical guide to using simple everyday foods as natural daily support for energy, recovery, and overall well-being.",
+      "status": "active"
+    }
+  ]
+}
