@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "currency": "USD",
+  "default_price": 9.99,
+  "items": [
+    {
+      "id": "DOM001",
+      "title": "His Name is YAHUSHA",
+      "type": "ebook",
+      "price": 0.99,
+      "thumb": "https://soar2024-mall.github.io/firebase/_data/DOM/THUMBS/DOM001-Yahusha.png",
+      "pdf": "https://soar2024-mall.github.io/firebase/_data/DOM/PDFS/DOM001-Yahusha.pdf",
+      "description": "Discover the true name of the Messiah and why ‘Jesus’ or ‘Yeshua’ are incorrect.",
+      "status": "active"
+    },
+    {
+      "id": "DOM002",
+      "title": "Yahusha, the Pesach Lamb",
+      "type": "ebook",
+      "price": 0.99,
+      "thumb": "https://soar2024-mall.github.io/firebase/_data/DOM/THUMBS/DOM002 - Pesach Lamb.png",
+      "pdf": "https://soar2024-mall.github.io/firebase/_data/DOM/PDFS/DOM002 - Pesach Lamb.pdf",
+      "description": "Discover the true meaning of the Pesach Lamb.",
+      "status": "active"
+    },
+    {
+      "id": "DOM003",
+      "title": "7 Festivals of YHVH",
+      "type": "ebook",
+      "price": 0.99,
+      "thumb": "https://soar2024-mall.github.io/firebase/_data/DOM/THUMBS/DOM003 - 7 Festivals.png",
+      "pdf": "https://soar2024-mall.github.io/firebase/_data/DOM/PDFS/DOM003 - 7 Festivals.pdf",
+      "description": "Discover the true meaning of the Pesach Lamb.",
+      "status": "active"
+    }
+  ]
+}
