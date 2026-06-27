@@ -1,36 +1,50 @@
 {
-  "version": "1.0",
+  "version": "2.0",
+
+  "store": {
+    "code": "DOM",
+    "name": "DOM Bookshop",
+    "store_url": "https://soar2024-mall.github.io/dom/",
+    "data_url": "https://soar2024-mall.github.io/firebase/_data/DOM/"
+  },
+
   "currency": "USD",
-  "default_price": 9.99,
+
   "items": [
     {
-      "id": "DOM001",
+      "code": "DOM001",
       "title": "His Name is YAHUSHA",
       "type": "ebook",
       "price": 0.99,
-      "thumb": "https://soar2024-mall.github.io/firebase/_data/DOM/THUMBS/DOM001-Yahusha.png",
-      "pdf": "https://soar2024-mall.github.io/firebase/_data/DOM/PDFS/DOM001-Yahusha.pdf",
+      "shipping": 0.00,
+      "shipping_policy": "NONE",
+      "thumb": "THUMBS/DOM001-Yahusha.png",
+      "pdf": "PDFS/DOM001-Yahusha.pdf",
       "description": "Discover the true name of the Messiah and why ‘Jesus’ or ‘Yeshua’ are incorrect.",
       "status": "active"
     },
     {
-      "id": "DOM002",
+      "code": "DOM002",
       "title": "Yahusha, the Pesach Lamb",
       "type": "ebook",
       "price": 0.99,
-      "thumb": "https://soar2024-mall.github.io/firebase/_data/DOM/THUMBS/DOM002 - Pesach Lamb.png",
-      "pdf": "https://soar2024-mall.github.io/firebase/_data/DOM/PDFS/DOM002 - Pesach Lamb.pdf",
+      "shipping": 0.00,
+      "shipping_policy": "NONE",
+      "thumb": "THUMBS/DOM002 - Pesach Lamb.png",
+      "pdf": "PDFS/DOM002 - Pesach Lamb.pdf",
       "description": "Discover the true meaning of the Pesach Lamb.",
       "status": "active"
     },
     {
-      "id": "DOM003",
+      "code": "DOM003",
       "title": "7 Festivals of YHVH",
       "type": "ebook",
       "price": 0.99,
-      "thumb": "https://soar2024-mall.github.io/firebase/_data/DOM/THUMBS/DOM003 - 7 Festivals.png",
-      "pdf": "https://soar2024-mall.github.io/firebase/_data/DOM/PDFS/DOM003 - 7 Festivals.pdf",
-      "description": "Discover the true meaning of the Pesach Lamb.",
+      "shipping": 0.00,
+      "shipping_policy": "NONE",
+      "thumb": "THUMBS/DOM003 - 7 Festivals.png",
+      "pdf": "PDFS/DOM003 - 7 Festivals.pdf",
+      "description": "Discover the true meaning of the Seven Festivals of YHVH.",
       "status": "active"
     }
   ]
