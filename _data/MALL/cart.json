@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+
+  "cart_id": "",
+
+  "created_at": "",
+
+  "customer": {
+    "email": "",
+    "name": "",
+    "phone": "",
+    "country": "",
+    "region": "",
+    "is_guest": true,
+    "notes": ""
+  },
+
+  "currency": "USD",
+
+  "items": [
+
+    {
+      "store_code": "",
+
+      "item_code": "",
+      "title": "",
+
+      "type": "",
+
+      "unit_price": 0.0,
+      "quantity": 0,
+
+      "shipping_policy": "NONE",
+
+      "thumb": "",
+      "asset": "",
+
+      "line_total": 0.0,
+
+      "status": "active"
+    }
+
+  ],
+
+  "summary": {
+    "item_count": 0,
+    "subtotal": 0.0,
+    "shipping_total": 0.0,
+    "discount_total": 0.0,
+    "grand_total": 0.0
+  }
+}
