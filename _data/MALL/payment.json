@@ -3,10 +3,21 @@
 
   "currency": "USD",
 
-  "paypal": "",
-  "gpay": "",
+  "payment_methods": {
+    "paypal": {
+      "enabled": true,
+      "merchant": "https://PayPal.me/swdb2018"
+    },
 
-  "checkout_page": "",
-  "success_page": "",
-  "cancel_page": ""
+    "gpay": {
+      "enabled": false,
+      "merchant": ""
+    }
+  },
+
+  "checkout": {
+    "page": "pay.html",
+    "success_page": "",
+    "cancel_page": ""
+  }
 }
