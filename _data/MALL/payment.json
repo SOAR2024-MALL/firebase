@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+
+  "currency": "USD",
+
+  "paypal": "",
+  "gpay": "",
+
+  "checkout_page": "",
+  "success_page": "",
+  "cancel_page": ""
+}
