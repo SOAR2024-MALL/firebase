@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+
+  "defaults": {
+    "thumbnail": "/assets/default-thumb.png",
+    "banner": "/assets/default-banner.png",
+    "store_logo": "/assets/default-store.png"
+  },
+
+  "icons": {
+    "cart": "cart.svg",
+    "search": "search.svg",
+    "warning": "warning.svg"
+  },
+
+  "image_rules": {
+    "lazy_load": true,
+    "fallback_on_missing": true
+  }
+}
