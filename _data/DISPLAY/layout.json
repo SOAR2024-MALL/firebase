@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+
+  "pages": {
+    "mall_home": {
+      "layout": "grid",
+      "show_featured_stores": true,
+      "show_categories": true,
+      "show_banner": true
+    },
+
+    "store_page": {
+      "layout": "grid",
+      "items_per_row": 3,
+      "show_filters": true,
+      "show_sort": true,
+      "show_banners": true
+    },
+
+    "product_page": {
+      "layout": "standard",
+      "show_related_items": true,
+      "show_store_link": true
+    },
+
+    "cart_page": {
+      "layout": "summary",
+      "show_store_breakdown": true
+    }
+  }
+}
