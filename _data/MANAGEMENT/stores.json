@@ -1,6 +1,13 @@
 {
   "version": "1.0",
 
+  "mall": {
+    "name": "SOAR2024 MALL",
+    "admin_email": "saphahcentralservices@gmail.com",
+    "sender_email": "saphahcentralservices@gmail.com",
+    "currency": "USD"
+  },
+  
   "stores": [
     {
       "code": "SOAR",
