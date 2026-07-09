@@ -46,7 +46,7 @@
       "folder": "GRUMPY",
       "name": "Grumpy's Bookstore",
       "type": "bookstore",
-      "status": "inactive",
+      "status": "pending",
       "store_url": "https://SOAR2024-MALL.github.io/grumpy/",
       "data_url": "https://SOAR2024-MALL.github.io/firebase/GRUMPY/",
       "email": "madmike5785@outlook.com"
@@ -56,7 +56,7 @@
       "folder": "ART",
       "name": "ART STORE",
       "type": "art",
-      "status": "inactive",
+      "status": "pending",
       "store_url": "https://SOAR2024-MALL.github.io/art/",
       "data_url": "https://SOAR2024-MALL.github.io/firebase/ART/",
       "email": "mbessinger5785@outlook.com"
@@ -66,7 +66,7 @@
       "folder": "PALEO-MUSIC",
       "name": "PALEO-MUSIC",
       "type": "music",
-      "status": "inactive",
+      "status": "pending",
       "store_url": "https://SOAR2024-MALL.github.io/paleo-music/",
       "data_url": "https://SOAR2024-MALL.github.io/firebase/PALEO-MUSIC/",
       "email": "lastwarners5785@outlook.com"
@@ -76,7 +76,7 @@
       "folder": "MINISTRY-ASSIST",
       "name": "MINISTRY-ASSIST",
       "type": "resources",
-      "status": "inactive",
+      "status": "pending",
       "store_url": "https://SOAR2024-MALL.github.io/ministry-assist/",
       "data_url": "https://SOAR2024-MALL.github.io/firebase/MINISTRY-ASSIST/",
       "email": "shlane1966@outlook.com"
