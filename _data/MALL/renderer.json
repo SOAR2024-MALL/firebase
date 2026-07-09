@@ -1,10 +1,15 @@
 {
   "version": "1.0",
 
+  "system": {
+    "favicon": "/firebase/favicon.ico",
+    "logo": "/firebase/EagleLogoSquare.png"
+  },
+  
   "css": "",
   "javascript": "",
 
-  "default_theme": "",
+  "default_theme": "african-eagle",
   "default_banner": "",
-  "default_thumb": ""
+  "default_thumb": "/firebase/EagleLogoSquare.png"
 }
