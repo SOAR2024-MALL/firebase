@@ -87,6 +87,10 @@
       "name": "Saphah Central Business",
       "type": "external",
       "status": "active",
+      "theme": "SAPHAH CENTRAL",
+      "primary_color": "#1E3A5F",
+      "secondary_color": "#2E8B57",
+      "accent_color": "#F8F8F2",
       "store_url": "https://saphahcentral.github.io/saphah/index.html",
       "data_url": "",
       "email": "saphahcentralbusiness@outlook.com"
