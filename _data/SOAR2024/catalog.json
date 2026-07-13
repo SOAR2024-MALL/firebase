@@ -50,16 +50,16 @@
     },
     {
       "code": "SOAR004",
-      "title": "Mind-Body Wellness: Stress Reduction & Emotional Balance",
+      "title": "Natural Healing: A Comprehensive Guide",
       "type": "ebook",
       "price": 19.99,
       "shipping": 0.00,
       "shipping_policy": "NONE",
-      "thumb": "THUMBS/Mind & Body Wellness.jpg",
-      "pdf": "PDFS/Mind & Body Wellness.pdf",
-      "description": "An extensive 135-page guide to mental clarity, emotional resilience, and holistic stress reduction. Integrates practical lifestyle strategies, natural support methods, mindfulness principles, and sustainable routines for long-term emotional and physical balance.",
+      "thumb": "THUMBS/Natural Healing.jpg",
+      "pdf": "PDFS/Natural Healing.pdf",
+      "description": "A practical guide to holistic wellness, natural healing, and healthy living. Covers herbal remedies, nutrition, aromatherapy, complementary therapies, gentle movement, and responsible natural health practices to support overall wellbeing.",
       "status": "active"
-    },
+},
     {
       "code": "SOAR005",
       "title": "Home Health & Emergency Survival Guide",
