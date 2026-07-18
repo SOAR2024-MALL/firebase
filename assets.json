@@ -30,11 +30,6 @@
     }
   },
 
-  "fallbacks": {
-      "default_banner": "/firebase/SOAR2024-MALL-DEFAULT.png",
-      "default_thumb": "/firebase/EagleLogoSquare.png"
-  },
-
   "rules": {
     "use_store_relative_paths": true,
     "never_hardcode_store_urls": true,
