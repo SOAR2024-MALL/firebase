@@ -1,0 +1,99 @@
+{
+  "version": "1.0",
+
+  "mall": {
+    "name": "SOAR2024 MALL",
+    "admin_email": "saphahcentralservices@gmail.com",
+    "sender_email": "saphahcentralservices@gmail.com",
+    "currency": "USD",
+    "theme": "african-eagle",
+    "primary_color": "#1976D2",
+    "secondary_color": "#F57C00",
+    "accent_color": "#FFFFFF"
+  },
+
+  "stores": [
+    {
+      "code": "SOAR",
+      "folder": "SOAR2024",
+      "name": "SOAR2024 Bookshop",
+      "type": "bookstore",
+      "status": "active",
+      "theme": "soar",
+      "primary_color": "#2E7D32",
+      "secondary_color": "#D4AF37",
+      "accent_color": "#FFFFFF",
+      "store_url": "https://SOAR2024-MALL.github.io/soar2024/",
+      "data_url": "https://SOAR2024-MALL.github.io/firebase/SOAR2024/",
+      "email": "soar6027@outlook.com"
+    },
+    {
+      "code": "DOM",
+      "folder": "DOM",
+      "name": "DOM Bookshop",
+      "type": "bookstore",
+      "status": "active",
+      "theme": "dom",
+      "primary_color": "#6D4C41",
+      "secondary_color": "#D7CCC8",
+      "accent_color": "#C9A227",
+      "store_url": "https://SOAR2024-MALL.github.io/dom/",
+      "data_url": "https://SOAR2024-MALL.github.io/firebase/DOM/",
+      "email": "derech-olam-6027@outlook.com"
+    },
+    {
+      "code": "GBS",
+      "folder": "GRUMPY",
+      "name": "Grumpy's Bookstore",
+      "type": "bookstore",
+      "status": "pending",
+      "store_url": "https://SOAR2024-MALL.github.io/grumpy/",
+      "data_url": "https://SOAR2024-MALL.github.io/firebase/GRUMPY/",
+      "email": "madmike5785@outlook.com"
+    },
+    {
+      "code": "ART",
+      "folder": "ART",
+      "name": "ART STORE",
+      "type": "art",
+      "status": "pending",
+      "store_url": "https://SOAR2024-MALL.github.io/art/",
+      "data_url": "https://SOAR2024-MALL.github.io/firebase/ART/",
+      "email": "mbessinger5785@outlook.com"
+    },
+    {
+      "code": "PM",
+      "folder": "PALEO-MUSIC",
+      "name": "PALEO-MUSIC",
+      "type": "music",
+      "status": "pending",
+      "store_url": "https://SOAR2024-MALL.github.io/paleo-music/",
+      "data_url": "https://SOAR2024-MALL.github.io/firebase/PALEO-MUSIC/",
+      "email": "lastwarners5785@outlook.com"
+    },
+    {
+      "code": "MA",
+      "folder": "MINISTRY-ASSIST",
+      "name": "MINISTRY-ASSIST",
+      "type": "resources",
+      "status": "pending",
+      "store_url": "https://SOAR2024-MALL.github.io/ministry-assist/",
+      "data_url": "https://SOAR2024-MALL.github.io/firebase/MINISTRY-ASSIST/",
+      "email": "shlane1966@outlook.com"
+    },
+    {
+      "code": "SCB",
+      "folder": "SAPHAH-CENTRAL-BUSINESS",
+      "name": "Saphah Central Business",
+      "type": "external",
+      "status": "active",
+      "theme": "saphahcentral",
+      "primary_color": "#1E3A5F",
+      "secondary_color": "#2E8B57",
+      "accent_color": "#F8F8F2",
+      "store_url": "https://saphahcentral.github.io/saphah/index.html",
+      "data_url": "",
+      "email": "saphahcentralbusiness@outlook.com"
+    }
+  ]
+}
