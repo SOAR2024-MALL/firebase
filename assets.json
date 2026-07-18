@@ -31,9 +31,8 @@
   },
 
   "fallbacks": {
-    "thumb": "/assets/images/default-thumb.png",
-    "banner": "/assets/images/default-banner.png",
-    "product": "/assets/images/default-product.png"
+      "default_banner": "/firebase/SOAR2024-MALL-DEFAULT.png",
+      "default_thumb": "/firebase/EagleLogoSquare.png"
   },
 
   "rules": {
