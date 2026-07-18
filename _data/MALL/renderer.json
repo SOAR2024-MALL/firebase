@@ -6,8 +6,8 @@
     "logo": "/firebase/EagleLogoSquare.png"
   },
   
-  "css": "",
-  "javascript": "",
+  "css": "/firebase/default.css",
+  "javascript": "/firebase/default-include.js",
 
   "default_theme": "african-eagle",
   "default_banner": "/firebase/SOAR2024-MALL-DEFAULT.png",
