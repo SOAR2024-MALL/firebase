@@ -192,3 +192,115 @@ button:hover{
     font-weight:bold;
 
 }
+
+#mall-header{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:20px;
+
+    background:var(--primary-color);
+
+    color:white;
+
+}
+
+.header-left{
+
+    width:20%;
+
+}
+
+.header-center{
+
+    width:55%;
+
+    text-align:center;
+
+}
+
+.header-right{
+
+    width:25%;
+
+}
+
+#mall-logo{
+
+    width:80px;
+
+}
+
+#announcement-corner{
+
+    border:2px solid red;
+
+    background:white;
+
+    color:red;
+
+    padding:8px;
+
+    font-size:.9em;
+
+    min-height:80px;
+
+    overflow:hidden;
+
+}
+
+#mall-nav{
+
+    background:var(--secondary-color);
+
+}
+
+#mall-nav ul{
+
+    display:flex;
+
+    list-style:none;
+
+}
+
+#mall-nav li{
+
+    margin:0;
+
+}
+
+#mall-nav a{
+
+    display:block;
+
+    padding:15px 20px;
+
+    color:white;
+
+    font-weight:bold;
+
+}
+
+#mall-nav a:hover{
+
+    background:var(--primary-color);
+
+}
+
+#mall-footer{
+
+    margin-top:30px;
+
+    padding:20px;
+
+    text-align:center;
+
+    background:#222;
+
+    color:white;
+
+}
