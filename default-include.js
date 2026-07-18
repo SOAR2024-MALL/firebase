@@ -55,6 +55,7 @@ function setFavicon() {
 ====================================
 Bootstrap
 ====================================
+
 */
 
 document.addEventListener("DOMContentLoaded", () => {
