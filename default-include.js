@@ -20,11 +20,7 @@ const SOAR = {
 
         favicon: "/firebase/favicon.ico"
 
-    },
-
-    currentStore: null,
-
-    storeData: null
+    }
 
 };
 
@@ -35,79 +31,41 @@ Set Favicon
 ====================================
 */
 
-function setFavicon(){
+function setFavicon() {
 
-    let link=document.querySelector("link[rel='icon']");
+    let link = document.querySelector("link[rel='icon']");
 
-    if(!link){
+    if (!link) {
 
-        link=document.createElement("link");
+        link = document.createElement("link");
 
-        link.rel="icon";
+        link.rel = "icon";
 
         document.head.appendChild(link);
 
     }
 
-    link.href=SOAR.defaults.favicon;
+    link.href = SOAR.defaults.favicon;
 
 }
 
 
 /*
 ====================================
-Placeholder Functions
+Bootstrap
 ====================================
 */
 
-async function loadStore(){
-
-    console.log("Loading store...");
-
-}
-
-async function loadTheme(){
-
-    console.log("Loading theme...");
-
-}
-
-async function loadIncludes(){
-
-    console.log("Loading includes...");
-
-}
-
-async function loadRenderer(){
-
-    console.log("Loading renderer...");
-
-}
-
-
-/*
-====================================
-Initialise
-====================================
-*/
-
-async function initialiseMall(){
+document.addEventListener("DOMContentLoaded", () => {
 
     setFavicon();
 
-    await loadStore();
+    console.log("SOAR Bootstrap Ready");
 
-    await loadTheme();
+    if (typeof Renderer !== "undefined") {
 
-    await loadIncludes();
+        Renderer.initialise();
 
-    await loadRenderer();
+    }
 
-    console.log("SOAR2024 MALL Ready");
-
-}
-
-document.addEventListener(
-    "DOMContentLoaded",
-    initialiseMall
-);
+});
