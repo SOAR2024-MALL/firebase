@@ -1,11 +1,17 @@
 {
   "version": "1.0",
 
-  "mall_url": "",
+  "mall_url": "https://SOAR2024-MALL.github.io/mall/",
 
-  "home_page": "",
-  "stores_page": "",
-  "search_page": "",
-  "cart_page": "",
-  "checkout_page": ""
+  "home_page": "/index.html",
+  "stores_page": "/shops/index.html",
+  "search_page": "/search/index.html",
+  "announcements_page": "/announcements/index.html",
+  "cart_page": "/cart/index.html",
+  "checkout_page": "/pay/index.html",
+  "help_page": "/help/index.html",
+
+  "community_page": "",
+  "management_page": "",
+  "ask_eliyah_page": ""
 }
