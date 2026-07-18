@@ -1,0 +1,49 @@
+{
+  "version": "1.2",
+
+  "global_ui_assets": {
+    "css": "/assets/css/main.css",
+    "js": "/assets/js/main.js",
+    "icons": "/assets/icons/",
+    "fonts": "/assets/fonts/"
+  },
+
+  "store_asset_map": {
+    "bookshop": {
+      "thumb_folder": "THUMBS",
+      "content_folder": "PDFS"
+    },
+
+    "art": {
+      "thumb_folder": "THUMBS",
+      "content_folder": "ART"
+    },
+
+    "music": {
+      "thumb_folder": "THUMBS",
+      "content_folder": "MUSIC"
+    },
+
+    "ministry": {
+      "thumb_folder": "THUMBS",
+      "content_folder": "PDFS"
+    }
+  },
+
+  "fallbacks": {
+    "thumb": "/assets/images/default-thumb.png",
+    "banner": "/assets/images/default-banner.png",
+    "product": "/assets/images/default-product.png"
+  },
+
+  "rules": {
+    "use_store_relative_paths": true,
+    "never_hardcode_store_urls": true,
+    "prefer_data_url_over_local_guessing": true
+  },
+
+  "security": {
+    "block_external_asset_injection": true,
+    "validate_store_asset_paths": true
+  }
+}
