@@ -94,6 +94,20 @@
       "store_url": "https://saphahcentral.github.io/saphah/index.html",
       "data_url": "",
       "email": "saphahcentralbusiness@outlook.com"
+    },
+        {
+      "code": "DOI",
+      "folder": "DERECH-OLAM-MISHKAN",
+      "name": "Derech Olam Mishkan",
+      "type": "external",
+      "status": "active",
+      "theme": "derech-olam",
+      "primary_color": "#5D4037",
+      "secondary_color": "#C9A227",
+      "accent_color": "#F5F0E1",
+      "store_url": "https://domg6027.github.io/dom6027/index.html",
+      "data_url": "",
+      "email": "derech-olam-6027@outlook.com"
     }
   ]
 }
