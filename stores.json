@@ -12,6 +12,13 @@
     "accent_color": "#FFFFFF"
   },
 
+  {
+    "id": "MALL-COMMUNITY",
+    "type": "community",
+    "category": "coming-up",
+    "status": "coming-up"
+  }
+  
   "stores": [
     {
       "code": "SOAR",
