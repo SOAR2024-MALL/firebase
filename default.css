@@ -304,3 +304,10 @@ button:hover{
     color:white;
 
 }
+
+.shop-access {
+    margin: 12px 0 0;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    text-align: center;
+}
