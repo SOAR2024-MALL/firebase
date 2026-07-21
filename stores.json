@@ -12,7 +12,7 @@
     "accent_color": "#FFFFFF"
   },
 
-  {
+  "extensions": {
     "id": "MALL-COMMUNITY",
     "type": "community",
     "category": "coming-up",
