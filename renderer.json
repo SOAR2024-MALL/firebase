@@ -5,9 +5,13 @@
     "favicon": "/firebase/favicon.ico",
     "logo": "/firebase/EagleLogoSquare.png"
   },
-  
+
   "css": "/firebase/default.css",
   "javascript": "/firebase/default-include.js",
+
+  "header": "/firebase/header.html",
+  "navigation": "/firebase/nav.html",
+  "footer": "/firebase/footer.html",
 
   "default_theme": "african-eagle",
   "default_banner": "/firebase/SOAR2024-MALL-DEFAULT.png",
